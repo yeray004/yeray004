@@ -7,7 +7,7 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 - 📓 Practicing with projects to improve my skills.
 - 🎵 Maybe listening to music (I love listening to music).
 
-***¡Get in touch! Check out my <a href="https://www.linkedin.com/in/yeray-guachet%C3%A1-carre%C3%B1o/" target="_blank">LinkedIn</a>, my mail yeye20041@gmail.com, or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
+***¡Get in touch! Check out my [LinkedIn](https://www.linkedin.com/in/yeray-guachet%C3%A1-carre%C3%B1o/), my e-mail yeye20041@gmail.com, or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
 
 </br>
 
@@ -18,6 +18,7 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 <code><img height="25" src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png"/></code>
 <code><img height="25" src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png"/></code>
 </p>
+
 <!--
 **yeray004/yeray004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
