@@ -7,7 +7,7 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 - 📓 Practicing with projects to improve my skills.
 - 🎵 Maybe listening to music (I love listening to music).
 
-***¡Get in touch! Check out my [LinkedIn](https://www.linkedin.com/in/yeray-guachet%C3%A1-carre%C3%B1o/), my mail [yeye20041@gmail.com](yeye20041@gmail.com), or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
+***¡Get in touch! Check out my <a href="https://www.linkedin.com/in/yeray-guachet%C3%A1-carre%C3%B1o/" target="_blank">LinkedIn</a>, my mail yeye20041@gmail.com, or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
 
 </br>
 
