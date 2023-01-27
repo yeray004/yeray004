@@ -1,5 +1,5 @@
 ## <p align="center"> Hi, my name is Yeray Guachetá! Welcome to my profile 👀 </p>
-I'm 18 years old. I'm a Colombian Front-end and Full-stack web developer in process. I am passionate about learning both socially and personally, whether we are talking about technology or soft skills.
+I'm 18 years old Colombian Front-end and Full-stack web developer in process. I am passionate about learning both socially and personally, whether we are talking about technology or soft skills.
 
 ### Currently 💻
 
