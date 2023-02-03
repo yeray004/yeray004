@@ -27,8 +27,9 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeray004&theme=dark&hide_border" alt="yeray004" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeray004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="yeray004" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeray004&theme=react&hide_border=true" alt="yeray004" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeray004&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="yeray004" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <p align="right">
