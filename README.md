@@ -4,7 +4,7 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 ### Currently 💻
 
 - 🦾 Complementing my skills to stay on top of the tech industry.
-- 📓 Practicing with projects with MERN Stack.
+- 📓 Practicing with MERN Stack projects.
 - ✍️ Learning Java and Spring Boot.
 - 🎵 Maybe listening to music (I love listening to music).
 
