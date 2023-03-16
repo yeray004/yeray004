@@ -3,11 +3,12 @@ I'm 18 years old Colombian Front-end and Full-stack web developer in process. I 
 
 ### Currently 💻
 
-- 🦾 Working on a beautiful beneficial final project with my mates of Prográmate Academy to become a Full-stack developer.
-- 📓 Practicing with projects to improve my skills.
+- 🦾 Complementing my skills to stay on top of the tech industry.
+- 📓 Practicing with projects with MERN Stack.
+- ✍️ Learning Java and Spring Boot.
 - 🎵 Maybe listening to music (I love listening to music).
 
-***¡Get in touch! Check out my [LinkedIn](https://www.linkedin.com/in/yeray-guachet%C3%A1-carre%C3%B1o/), my e-mail yerayguacheta@gmail.com, or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
+***¡Get in touch! Check out my [LinkedIn](https://www.linkedin.com/in/yeray-guacheta-carreno/), my e-mail yerayguacheta@gmail.com, or my [Portfolio](https://portfolio-yeray004.vercel.app/). 📲***
 
 </br>
 
